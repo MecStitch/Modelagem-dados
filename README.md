@@ -1,7 +1,7 @@
 # Banco de Dados
 
 <div align="center">
-<img width="400em"  src="https://data.whicdn.com/images/319516064/original.gif"><img width="400em"  src="https://gifimage.net/wp-content/uploads/2017/09/anime-computer-gif-4.gif">
+<img width="400em"  src="https://data.whicdn.com/images/319516064/original.gif"><img width="400em" src="https://gifimage.net/wp-content/uploads/2017/09/anime-computer-gif-4.gif">
 </div>
  
 <br>
