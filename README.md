@@ -6,5 +6,5 @@ Feito em conjunto com essas pessoas incríveis:
 
 
 
-<a href="https://github.com/MaxHenriique" target="_blank"><img src="https://avatars.githubusercontent.com/u/101279529?v=4" target="_blank"></a>
+<a href="https://github.com/MaxHenriique" target="_blank"><img src="https://avatars.githubusercontent.com/u/101279529?v=4" height="150" target="_blank"></a>
 ##### Max Henrique
