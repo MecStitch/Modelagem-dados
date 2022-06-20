@@ -11,7 +11,7 @@ Projeto de Banco de Dados que foi passado pelo professor <a href="https://github
  
 ###
 
-Feito em equipe com essas pessoas incríveis:
+Feito em equipe por essas pessoas incríveis:
 
 <br>
 
